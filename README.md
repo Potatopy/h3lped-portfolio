@@ -33,3 +33,8 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/)
+
+## Credits
+
+Since I don't want to be the code stealing douchebag I want to give credit to [Code Commerce](https://www.youtube.com/@codecommerce) who actually made the Youtube tutorial.
+The images are public and idek where I got them :/
