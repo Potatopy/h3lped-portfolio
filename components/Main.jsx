@@ -14,7 +14,7 @@ export const Main = () => {
             Hi, I&apos;m <span className="text-[#5651e5]">h3lped!</span>
           </h1>
           <h1 className="py4 text-gray-700">
-            A back-end developer
+            A Backend developer
           </h1>
           <p className="py-4 text-gray-600 max-w-[%70] m-auto">
             I&apos;m a rookie back-end developer who is interested in API&apos;s and many internet things. 
