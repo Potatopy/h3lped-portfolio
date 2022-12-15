@@ -18,7 +18,7 @@ const Projects = () => {
           <ProjectItem
             title="This Site..."
             backgroundImg={Site}
-            projectUrl="/site"
+            projectUrl="https://github.com/Potatopy/h3lped-portfolio"
             langType="React.js + Next.js"
           />
           <ProjectItem
@@ -30,13 +30,13 @@ const Projects = () => {
           <ProjectItem
             title="A C# Project"
             backgroundImg={NoImage}
-            projectUrl="/site"
+            projectUrl="/"
             langType="C#"
           />
           <ProjectItem
             title="Coming Soon!"
             backgroundImg={NoImage}
-            projectUrl="/site"
+            projectUrl="/"
             langType="not just yet ;)"
           />
         </div>
