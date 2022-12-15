@@ -4,7 +4,7 @@ import { BsFillPersonFill } from "react-icons/bs";
 
 export const Main = () => {
   return (
-    <div className="w-full h-screen text-center">
+    <div id="home" className="w-full h-screen text-center">
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
           <p className="uppercase text-sm tracking-widest text-gray-600">
@@ -23,16 +23,16 @@ export const Main = () => {
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300">
-              <FaGithub />
+              <FaGithub size={30} />
             </div>
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300">
-              <FaTwitter />
+              <FaTwitter size={30} />
             </div>
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300">
-              <FaInstagram />
+              <FaInstagram size={30} />
             </div>
             <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-105 ease-in duration-300">
-              <BsFillPersonFill />
+              <BsFillPersonFill size={30} />
             </div>
           </div>
         </div>
